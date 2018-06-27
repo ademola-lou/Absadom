@@ -1,3 +1,3 @@
 # Absadom
 
-Welcome to the Absadom role-playing game mae with webgl game engine #Babylonjs
+Welcome to the Absadom role-playing game mae with webgl game engine # Absadom
